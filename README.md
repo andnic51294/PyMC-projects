@@ -14,3 +14,5 @@ More details in LDA.jpg
 * Breast Cancer binary Classification.
 * Multiclass classification for the MNIST dataset.
 More details in BayesianNN.jpg
+
+![alt text](https://github.com/andnic51294/PyMC-projects/blob/main/BayesianNN.jpg?raw=true)
