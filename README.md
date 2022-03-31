@@ -8,6 +8,8 @@ Probabilistic models developed using both PyMC2 and PyMC3
 * Given a dataset of documents, LDA backtracks and tries to figure out what topics would create those documents in the first place.
 More details in LDA.jpg
 
+![alt text](https://github.com/andnic51294/PyMC-projects/blob/main/LDA.jpg?raw=true)
+
 ### Bayesian_Neural_Network.ipynb
 * Breast Cancer binary Classification.
 * Multiclass classification for the MNIST dataset.
